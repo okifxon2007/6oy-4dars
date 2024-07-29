@@ -1,0 +1,84 @@
+.blowonein{
+    margin-top: 35px;
+    margin-left: 30px;
+    width: 300px;
+    height: 35px;
+    border-radius: 3px;
+    border: 1px solid silver;
+    font-size: 16px;
+    padding-left: 15px;
+    display: none;
+}
+.blowone img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-left: 70px;
+}
+.blowone{
+    margin-top: 30px;
+    display: flex;
+
+}
+.blowebut{
+    cursor: pointer;
+    margin-left: 30px;
+    margin-top: 10px;
+    width: 150px;
+    background-color: transparent;
+    font-size: 18px;
+    color: blue;
+    text-decoration: underline;
+    border: 1px solid transparent;
+}
+.blowfrom input{
+    height: 35px;
+    border-radius: 8px;
+    border: 1px solid silver;
+    width: 550px;
+}
+.blowfrom{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.blowtruedf select{
+    width: 220px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.blowtruedf{
+    gap: 80px;
+    margin-top: 40px;
+    margin-left: 80px;
+    display: flex;
+}
+
+
+.maininn{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.maininn form input{
+    width: 550px;
+    height: 38px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    padding-left: 8px;
+}
+.maininn textarea{
+    width: 550px;
+}
+.maininn button{
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 150px;
+    height: 42px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
